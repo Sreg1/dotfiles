@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = asregor@hotmail.com
+	name = Anabelle Rogers
